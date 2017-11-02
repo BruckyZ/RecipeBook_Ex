@@ -1,0 +1,40 @@
+.standardimage1
+{
+    height:225px;
+    margin-right:10%;
+    width:225px;
+}
+
+.standardimage3
+{
+    height:500px;
+    margin-right:1%;
+    width:100px;
+
+}
+
+.standardimage2
+{ height: 400px;
+  margin-right:2%;
+  width:650px;
+}
+
+.standardimage4
+{ height: 40px;
+    margin-right:1%;
+    width:50px;
+}
+
+.standardimage5
+{ height: 350px;
+    margin-right:2%;
+    width:450px;
+}
+
+
+.text-uppercase
+
+body
+{
+background-color: blue;
+}
