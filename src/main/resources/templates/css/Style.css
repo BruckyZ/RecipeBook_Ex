@@ -15,8 +15,8 @@
 
 .standardimage2
 { height: 400px;
-  margin-right:2%;
-  width:650px;
+    margin-right:2%;
+    width:650px;
 }
 
 .standardimage4
@@ -34,7 +34,18 @@
 
 .text-uppercase
 
-body
+.fontcolor
 {
-background-color: blue;
+    color:red;
+}
+
+.html {
+    height: 100%;
+}
+.body {
+    background-color:darkgoldenrod;
+}
+
+.body2 {
+    background-color:lightblue;
 }
